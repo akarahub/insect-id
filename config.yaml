@@ -1,0 +1,8 @@
+log_dir: folder\
+image_size: [200, 200, 3]
+class_count: 5
+batch_size: 128
+epochs: 10
+learning_rate: 0.001
+save_path: folder\file.keras
+data_path: folder
